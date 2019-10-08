@@ -1,0 +1,6 @@
+
+1  clear
+2  sudo apt install build-essential checkinstall cvs subversion git-core mercurial texinfo 
+3  sudo apt-get install gcc
+4  clear
+5  history
