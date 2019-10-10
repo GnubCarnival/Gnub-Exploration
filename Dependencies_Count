@@ -1,4 +1,11 @@
-# nCurses     1
-# pkg-config  1
-# bdw-gc      1
-# help2man    1
+  Ncurses 1
+  libncurses5-dev
+  
+  pkg-config 1
+  pkg-config
+  
+  bdw-gc 1
+  libgc-dev
+  
+  help2man 1
+  help2man
