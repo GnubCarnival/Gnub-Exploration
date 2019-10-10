@@ -1,0 +1,12 @@
+-- Zile
+  Ncurses 1
+  libncurses5-dev
+  
+  pkg-config 1
+  pkg-config
+  
+  bdw-gc 1
+  libgc-dev
+  
+  help2man 1
+  help2man
